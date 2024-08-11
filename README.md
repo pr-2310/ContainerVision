@@ -1,6 +1,6 @@
 # Docker and Singularity MNIST Project
 
-This project demonstrates how to deploy the MNIST machine learning model within Docker and Singularity containers, providing insights into container technology applications in machine learning.
+ContainerVision demonstrates MNIST model deployment using Docker and Singularity. It showcases containerization in machine learning, providing reproducible environments for local and HPC setups. The project includes Dockerfile, Python script, and instructions for building, running, and converting containers, offering hands-on experience with ML containerization.
 
 ## Prerequisites
 
